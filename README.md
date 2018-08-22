@@ -1,2 +1,2 @@
 # to-do
-to-do application developed with Django
+***to-do*** webapplication developed with Django
